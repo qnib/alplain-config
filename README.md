@@ -1,7 +1,7 @@
 # alplain-config
 Alpine init w/ confd and go-github
 
-**Version**: v1
+**Version**: v2
 
 ## Description
 
